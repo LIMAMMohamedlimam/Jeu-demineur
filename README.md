@@ -1,4 +1,4 @@
-#Jeu Démineur en C
+# Jeu Démineur en C
 
 Ce projet est une implémentation en mode console du célèbre jeu Démineur en C. Le jeu met au défi les joueurs de nettoyer un tableau rectangulaire contenant des "mines" cachées sans les déclencher, avec l'aide d'indices sur le nombre de mines voisines dans chaque champ.
 
