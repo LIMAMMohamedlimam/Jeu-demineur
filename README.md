@@ -37,3 +37,6 @@ N'hésitez pas à forker le dépôt et à soumettre des pull requests.
 
 ## Quelque snapshots :
 ![démineur1](https://github.com/LIMAMMohamedlimam/Jeu-demineur/assets/136266543/a6a4ba07-b5b5-4058-a424-df00fe2125c2)
+![démineur2](https://github.com/LIMAMMohamedlimam/Jeu-demineur/assets/136266543/a773db60-9b2a-4539-827f-a0c6b5c9400c)
+![démineur3](https://github.com/LIMAMMohamedlimam/Jeu-demineur/assets/136266543/bc3673ae-ae6d-494c-a974-efacffc8798a)
+![démineur4](https://github.com/LIMAMMohamedlimam/Jeu-demineur/assets/136266543/aa3e584b-8989-4ed6-9c12-e7a47860ec1f)
