@@ -34,3 +34,7 @@ Les contributions à ce projet sont les bienvenues ! Voici quelques façons de c
 - Suggérer des améliorations.
 
 N'hésitez pas à forker le dépôt et à soumettre des pull requests.
+
+## Quelque snapshots :
+
+<img src="./Test/démineur1.png" alt="Alt text" title="Optional title">
