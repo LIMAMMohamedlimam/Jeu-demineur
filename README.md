@@ -36,5 +36,4 @@ Les contributions à ce projet sont les bienvenues ! Voici quelques façons de c
 N'hésitez pas à forker le dépôt et à soumettre des pull requests.
 
 ## Quelque snapshots :
-
-<img src="./Test/démineur1.png" alt="Alt text" title="Optional title">
+![démineur1](https://github.com/LIMAMMohamedlimam/Jeu-demineur/assets/136266543/a6a4ba07-b5b5-4058-a424-df00fe2125c2)
